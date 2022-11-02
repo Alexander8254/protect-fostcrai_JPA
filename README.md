@@ -1,1 +1,0 @@
-# protect-fostcrai_JPA
