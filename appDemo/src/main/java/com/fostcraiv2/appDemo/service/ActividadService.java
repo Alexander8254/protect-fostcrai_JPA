@@ -8,5 +8,11 @@ public interface ActividadService {
 
 	public List<Actividad> listarTodasLasActividades();
 	
+	public Actividad guardarActividad(Actividad acividad);
 	
+	public Actividad obtenerActividadId(Long id);
+	
+	public Actividad actualizarActividad(Actividad actividad);
+	
+	public void eliminarActividad(Long id);
 }
